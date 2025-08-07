@@ -19,16 +19,16 @@ Entrepreneurs can describe their idea in simple terms, and the app delivers a **
 - **Structured Output** – Provides 8-9 key sections.
 - **Formatted & Readable** – Bold headings for clarity.
 
-#Demo Screenshot
+#Demo Screenshot (VSC Functioning, for Jupyter the output is generated in the notebook itself.)
 <img width="1896" height="904" alt="Screenshot 2025-08-04 232451" src="https://github.com/user-attachments/assets/6b5e90ce-bc40-4267-9cd8-48f3d1185aee" />
 
 #Tech Stack
-- **Frontend**: HTML, CSS
-- **Backend**: Python (Flask)
+- **Frontend**: HTML, CSS (VSC file)
+- **Backend**: Python (Flask) (Done in Jupyter Notebook as well as VSCode), Jupyter doesn't consist of Flask Logic whereas VSC does.
 - **AI Model**: IBM watsonx.ai Granite
 - **Hosting**: Runs locally (can be deployed to IBM Cloud, Render etc.)
 
-#Key Points
+#Key Points (If using VSC File)
 - Please create a virtual environment (.venv) for smooth functioning.
 - Install necessary dependencies for proper output such as pip install flask ibm-watsonx-ai
 
